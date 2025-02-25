@@ -1,6 +1,6 @@
 import Singer from "./Singer";
 
-const App = () => {
+const SingerList = () => {
   return (
     <ul>
       <Singer name="Lân Nhã" city="Hồ Chí Minh" />
@@ -11,4 +11,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default SingerList;
